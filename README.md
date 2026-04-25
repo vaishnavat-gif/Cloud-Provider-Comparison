@@ -82,3 +82,6 @@ streamlit run app.py
 - [ ] Loom video link (about 3 minutes)
 - [ ] Team ready for viva and able to explain all components
 
+🎥 Project Demo Video
+▶️ Watch Demo
+
