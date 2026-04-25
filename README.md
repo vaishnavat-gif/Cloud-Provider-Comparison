@@ -82,6 +82,8 @@ streamlit run app.py
 - [ ] Loom video link (about 3 minutes)
 - [ ] Team ready for viva and able to explain all components
 
-## 🎥 Project Demo Video
+## 🎥 Project Demo Video 
 ▶️ [Watch Demo](https://www.loom.com/share/870f5a3b09fc4f58b9d4e8b39b5425fe)
 
+## 🤖 CloudCompare AI 
+🌐 [Live Now!](https://cloud-agent-1.onrender.com/)
