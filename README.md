@@ -87,3 +87,7 @@ streamlit run app.py
 
 ## 🤖 CloudCompare AI 
 🌐 [Live Now!](https://cloud-agent-1.onrender.com/)
+
+## Acknowledgments
+Course: Introduction to Agentic AI Systems
+Instructor: Lokesh Dange
